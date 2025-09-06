@@ -12,7 +12,7 @@ This project applies **SQL queries** and **Power BI dashboards** to uncover tren
 
 * **SQL** – Querying and analyzing flight data
 * **Power BI** – Creating interactive dashboards and visualizations
-* **Dataset -[Flight Performance & Aviation Analytics](https://drive.google.com/file/d/1M2d_D_h1_t_TIcrPlWGKNqGwb86ofAZ8/view)
+* **Dataset** -[Flight Performance & Aviation Analytics](https://drive.google.com/file/d/1M2d_D_h1_t_TIcrPlWGKNqGwb86ofAZ8/view)
 
 ##  Key Insights from the Analysis
 
